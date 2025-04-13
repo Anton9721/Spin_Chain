@@ -1,0 +1,15 @@
+build/
+.vscode/
+
+
+spin_chain.cpp
+spin_chain.cpython-312-x86_64-linux-gnu.so
+spin_chain.html
+
+python_test.ipynb
+
+
+# git status          # Проверяем статус
+# git add .           # Добавляем все изменения
+# git commit -m "Сообщение коммита"   # Создаём коммит
+# git push origin main 
